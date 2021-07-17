@@ -1,4 +1,4 @@
-# coding=utf-8
+# coding=utf-81
 import requests
 import time
 
