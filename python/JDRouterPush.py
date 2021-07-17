@@ -1,4 +1,4 @@
-# coding=utf-81
+# coding=utf-8
 import requests
 import time
 
@@ -6,8 +6,8 @@ import time
 jd_base_url = "https://mobile-api.jdcloud.com/v1/regions/cn-north-1/"
 
 # TelegramBot推送
-TG_BOT_TOKEN = '1849607398:AAEXuxJeQBRA5_4jBA7ZVkPnBosW4uTHL0I'           # telegram bot token 自行申请
-TG_USER_ID = '1090665567'             # telegram 用户ID
+TG_BOT_TOKEN = ''           # telegram bot token 自行申请
+TG_USER_ID = ''             # telegram 用户ID
 
 # 京东路由器设备列表,按照格式可填写多台
 jd_router_device_list = [
